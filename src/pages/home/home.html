@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Anti-Theft
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+  <label>Username</label>
+    <input type="text" name="username" [(ngModel)]="data.username" required/>
+    <label>Password</label>
+    <input type="password" name="password" [(ngModel)]="data.password" required/>
+
+    <button round block (click)="submit()">Login</button>
+    <button round block [navPush]="registerPage">No account? Register here!</button>
+  </ion-list>
+
+  <ion-card>
+    <ion-card-header>
+      Response
+    </ion-card-header>
+
+    <ion-card-content>
+      <b>{{data.response}}</b>
+    </ion-card-content>
+  </ion-card>
+
+
+</ion-content>

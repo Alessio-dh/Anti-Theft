@@ -1,4 +1,6 @@
 {
-  "name": "Anti-Theft",
-  "app_id": ""
+  "name": "Anti-Theft-V2",
+  "app_id": "",
+  "v2": true,
+  "typescript": true
 }
