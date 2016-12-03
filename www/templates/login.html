@@ -1,0 +1,20 @@
+<ion-view title="login" hide-back-button="true" id="page1" style="">
+  <ion-nav-buttons side="left" class="has-header">
+    <button class="button button-icon icon No Icon"> Anti-Theft</button>
+  </ion-nav-buttons>
+  <ion-content padding="true" class="has-header">
+    <form id="login-form3" class="list">
+      <div class="spacer" style="width: 300px; height: 150px;"></div>
+      <label class="item item-input" id="login-input4">
+        <span class="input-label">Username</span>
+        <input placeholder="" type="text" name="username" ng-model="data.username">
+      </label>
+      <label class="item item-input" id="login-input2">
+        <span class="input-label">Password</span>
+        <input placeholder="" type="password" name="password" ng-model="data.password">
+      </label>
+      <button id="login-button1" ng-click="login()" style="border-radius:-1px -1px -1px -1px;" class="button button-positive  button-block button-outline icon-right ion-android-send">Login</button>
+      <a ui-sref="register" id="login-button3" class="button button-positive  button-block">No account? Register here!</a>
+    </form>
+  </ion-content>
+</ion-view>

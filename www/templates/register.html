@@ -1,0 +1,31 @@
+<ion-view title="Register" id="page2" style="">
+  <ion-content padding="true" class="has-header">
+    <div class="spacer" style="width: 300px; height: 61px;"></div>
+    <form id="register-form4" class="list">
+      <ion-list id="register-list1">
+        <label class="item item-input" id="register-input5">
+          <span class="input-label">Name</span>
+          <input placeholder="" type="text" ng-model="data.name" name="name">
+        </label>
+        <label class="item item-input" id="register-input8">
+          <span class="input-label">Email</span>
+          <input placeholder="" type="email" name="email" ng-model="data.email">
+        </label>
+        <label class="item item-input" id="register-input6">
+          <span class="input-label">Username</span>
+          <input placeholder="" type="text" name="username" ng-model="data.username">
+        </label>
+        <label class="item item-input" id="register-input7" >
+          <span class="input-label">Password</span>
+          <input placeholder="" type="password" name="password" ng-model="data.password">
+        </label>
+        <label class="item item-input" id="register-input9">
+          <span class="input-label">Confirm Password</span>
+          <input placeholder="" type="password" name="cpassword" ng-model="data.cpassword">
+        </label>
+      </ion-list>
+      <button id="register-button2" ng-click="registerUserAccount()" class="button button-positive  button-block button-outline">Sign up</button>
+      <a ui-sref="login" id="register-button5" class="button button-positive  button-block">Back to login</a>
+    </form>
+  </ion-content>
+</ion-view>
