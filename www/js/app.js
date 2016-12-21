@@ -5,15 +5,15 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
-angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.directives','app.services',])
+angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.directives','app.services','ngCordova'])
 
-.config(function($ionicConfigProvider, $sceDelegateProvider){
-  window.addEventListener("batterystatus", onBatteryStatus, false);
+.config(function( $sceDelegateProvider){
+  //window.addEventListener("batterystatus", onBatteryStatus, false);
   $sceDelegateProvider.resourceUrlWhitelist([ 'self','*://www.youtube.com/**', '*://player.vimeo.com/video/**']);
 
 })
 
-.run(function($ionicPlatform,$ionicPopup) {
+.run(function($ionicPlatform,$ionicPopup,$rootScope) {
   $ionicPlatform.ready(function() {
     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
     // for form inputs)
@@ -29,11 +29,9 @@ angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.directives
     $ionicPlatform.registerBackButtonAction(function(event) {
       if (true) { // your check here
         $ionicPopup.confirm({
-          title: 'System warning',
-          template: 'are you sure you want to exit? This will stop the tracking of your device.'
+          title: 'You can not exit the application',
         }).then(function(res) {
           if (res) {
-            $ionicPlatform.exitApp();
           }
         })
       }
@@ -64,12 +62,3 @@ angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.directives
     };
 }])
 
-function onBatteryStatus(status) {
-  var link = 'http://192.168.0.181:8888/Anti-Theft/index.php/AdminPanel/sendBattery';
-  var SendData = JSON.stringify({username:"a",battery:status.level});
-  $http.post(link,SendData)
-    .then(function(success){
-
-    });
-  console.log("Level: " + status.level + " isPlugged: " + status.isPlugged);
-}

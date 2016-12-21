@@ -30,6 +30,8 @@
     <variable name="ALWAYS_USAGE_DESCRIPTION" value="This app requires background tracking enabled"/>
   </plugin>
   <plugin name="cordova-plugin-cameraserver" spec="https://github.com/Moonware/cordova-cameraserver"/>
+  <plugin name="com.moonware.cameraplus" spec="https://github.com/moonware/cordova-cameraplus"/>
+  <plugin name="cordova-plugin-camerapicturebackground" spec="~0.0.3"/>
   <platform name="ios">
     <splash height="1136" src="resources/ios/splash/Default-568h@2x~iphone.png" width="640"/>
     <splash height="1334" src="resources/ios/splash/Default-667h.png" width="750"/>
@@ -67,4 +69,5 @@
   <allow-intent href="https://*/*"/>
   <allow-navigation href="http://192.168.0.178:8100"/>
   <allow-navigation href="http://192.168.0.181:8100"/>
+  <allow-navigation href="http://192.168.43.156:8100"/>
 </widget>

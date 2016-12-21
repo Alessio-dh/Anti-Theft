@@ -12,31 +12,11 @@ angular.module('app.controllers', ['ionic'])
     data = JSON.stringify(data);
     this.username = $scope.data.username;
     loginService.LoginUser($http,data,$ionicPopup,$state,username);
-     }  
+     }
 
-}])
-
-.controller('registerCtrl', ['$scope', '$stateParams','$http','registerService','$ionicPopup','$state', function ($scope, $stateParams,$http,$ionicPopup,registerService,$state) {
-  $scope.data = {}; 
-
-  $scope.registerUserAccount = function()   { 
-    console.log('Register knop gedrukt');
-         if($scope.data.password != $scope.data.cpassword){
-           $ionicPopup.alert({
-             title: 'Oops!',
-             template: 'Passwords are not matching'
-           });
-         }else{ 
-           var data = { 
-             username: $scope.data.username,
-             fullname:$scope.data.name,
-             email:$scope.data.email, 
-             password: CryptoJS.SHA256($scope.data.password+"d1196d14673fea52227035c43d124169").toString() 
-           };
-            data = JSON.stringify(data);
-           registerService.RegisterUser($http,data,$ionicPopup,$state);
-          } 
-  }  
+  /*
+    Deze controller gaat naar de server de log in gegevens sturen van de gebruiker waarop een antwoord van de server komt als de log in klopt ja of nee
+   */
 }])
 
 .controller('activateYourAccountCtrl', ['$scope', '$stateParams','activateService','$ionicPopup','$state','$http',function ($scope, $stateParams,activateService,$ionicPopup,$state,$http) {
@@ -49,9 +29,13 @@ angular.module('app.controllers', ['ionic'])
     var username=data.username;
     activateService.ActivateUser($http,data,$ionicPopup,$state,username);
   }
+
+  /*
+    Deze controller zal een post sturen naar de server om te laten weten dat de gebruiker akkoord gaat met de TOS
+   */
 }])
 
-.controller('activatedCtrl', ['$scope', '$stateParams','activatedService','$ionicPopup','$state','$http' ,function ($scope, $stateParams,activatedService,$ionicPopup,$state,$http) {
+.controller('activatedCtrl', ['$scope', '$stateParams','activatedService','$ionicPopup','$state','$http','$cordovaCamera',function ($scope, $stateParams,activatedService,$ionicPopup,$state,$http,$cordovaCamera) {
   $scope.hideBackButton = true;
   var json = 'http://ipv4.myexternalip.com/json';
   $http.get(json).
@@ -65,6 +49,11 @@ angular.module('app.controllers', ['ionic'])
     username: $stateParams.username,
   };
   setInterval(function() {
-    activatedService.getTasks($http,data,$stateParams.username);
-  }, 10000);
+    activatedService.getTasks($http,data,$stateParams.username,$cordovaCamera);
+
+ }, 10000);
+
+  /*
+  Deze controller zal om de 10 seconden gaan kijken welke taken hij heeft. In het begin zal hij het externe IP adres opvragen voor de voorpagina op te vullen
+   */
 }])

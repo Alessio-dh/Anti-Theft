@@ -10,7 +10,7 @@ angular.module('app.routes', [])
 
 
 
-      .state('login', {
+    .state('login', {
     url: '/',
     templateUrl: 'templates/login.html',
     controller: 'loginCtrl'
@@ -26,18 +26,12 @@ angular.module('app.routes', [])
     url: '/activate/:username',
     templateUrl: 'templates/activateYourAccount.html',
     controller: 'activateYourAccountCtrl',
-    params: {
-      'username': null,
-    }
   })
 
   .state('activated', {
     url: '/activated/:username',
     templateUrl: 'templates/activated.html',
     controller: 'activatedCtrl',
-    params: {
-      'username': null,
-    }
   })
 
 $urlRouterProvider.otherwise('/')

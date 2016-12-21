@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="872f2f36-b7fa-4557-9acd-191125e9c67c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/cache/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/constants.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/database.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/doctypes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/foreign_chars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/hooks.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/memcached.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/migration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/mimes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/profiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/smileys.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/config/user_agents.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/controllers/Login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/controllers/Welcome.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/controllers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/core/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/helpers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/hooks/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/language/english/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/libraries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/logs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/models/Login_Model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/models/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/third_party/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/cli/error_404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/cli/error_db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/cli/error_exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/cli/error_general.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/cli/error_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/cli/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/html/error_404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/html/error_db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/html/error_exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/html/error_general.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/html/error_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/errors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/login_view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/application/views/welcome_message.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/readme.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Benchmark.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/CodeIgniter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Exceptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Hooks.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Input.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Log.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Output.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Router.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Security.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/URI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/Utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/compat/hash.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/compat/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/compat/mbstring.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/compat/password.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/compat/standard.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/core/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/DB.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/DB_cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/DB_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/DB_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/DB_query_builder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/DB_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/DB_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/cubrid/cubrid_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/cubrid/cubrid_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/cubrid/cubrid_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/cubrid/cubrid_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/cubrid/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/ibase/ibase_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/ibase/ibase_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/ibase/ibase_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/ibase/ibase_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/ibase/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mssql/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mssql/mssql_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mssql/mssql_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mssql/mssql_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mssql/mssql_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysql/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysql/mysql_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysql/mysql_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysql/mysql_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysql/mysql_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysqli/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysqli/mysqli_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysqli/mysqli_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysqli/mysqli_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/mysqli/mysqli_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/oci8/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/oci8/oci8_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/oci8/oci8_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/oci8/oci8_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/oci8/oci8_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/odbc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/odbc/odbc_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/odbc/odbc_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/odbc/odbc_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/odbc/odbc_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/pdo_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/pdo_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/pdo_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/pdo_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_4d_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_4d_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_cubrid_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_cubrid_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_dblib_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_dblib_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_firebird_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_firebird_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_ibm_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_ibm_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_informix_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_informix_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_mysql_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_mysql_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_oci_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_oci_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_odbc_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_odbc_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_pgsql_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_pgsql_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_sqlite_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_sqlite_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/postgre/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/postgre/postgre_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/postgre/postgre_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/postgre/postgre_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/postgre/postgre_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite/sqlite_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite/sqlite_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite/sqlite_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite/sqlite_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite3/sqlite3_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite3/sqlite3_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite3/sqlite3_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlite3/sqlite3_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlsrv/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlsrv/sqlsrv_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlsrv/sqlsrv_forge.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlsrv/sqlsrv_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/drivers/sqlsrv/sqlsrv_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/database/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/fonts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/fonts/texb.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/array_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/captcha_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/cookie_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/date_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/directory_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/download_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/email_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/file_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/form_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/html_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/inflector_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/language_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/number_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/path_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/security_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/smiley_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/string_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/text_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/typography_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/url_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/helpers/xml_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/calendar_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/date_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/db_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/email_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/form_validation_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/ftp_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/imglib_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/migration_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/number_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/pagination_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/profiler_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/unit_test_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/english/upload_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/Cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/drivers/Cache_apc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/drivers/Cache_dummy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/drivers/Cache_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/drivers/Cache_memcached.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/drivers/Cache_redis.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/drivers/Cache_wincache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/drivers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Calendar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Email.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Encryption.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Form_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Ftp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Image_lib.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Javascript.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Javascript/Jquery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Javascript/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Migration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Profiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/Session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/SessionHandlerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/Session_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/drivers/Session_database_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/drivers/Session_files_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/drivers/Session_memcached_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/drivers/Session_redis_driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/drivers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Session/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Trackback.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Typography.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Unit_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/User_agent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Xmlrpc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Xmlrpcs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/Zip.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/system/libraries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/.buildinfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/DCO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_downloads/ELDocs.tmbundle.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_images/appflowchart.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_images/smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/comment-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/comment-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/css/badge_only.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/css/citheme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/down-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/images/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/jquery-1.11.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/js/oldtheme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/underscore-1.3.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/up-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/_static/websupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/contributing/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/call_function.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/configuration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/connecting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/db_driver_reference.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/examples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/forge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/metadata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/queries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/query_builder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/results.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/transactions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/database/utilities.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/alternative_php.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/ancillary_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/autoloader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/cli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/common_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/compatibility_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/controllers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/core_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/creating_drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/creating_libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/credits.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/environments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/hooks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/managing_apps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/models.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/profiling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/requirements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/reserved_names.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/routing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/security.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/styleguide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/urls.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/views.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/general/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/array_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/captcha_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/cookie_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/date_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/directory_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/download_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/email_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/file_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/form_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/html_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/inflector_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/language_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/number_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/path_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/security_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/smiley_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/string_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/text_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/typography_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/url_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/helpers/xml_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/downloads.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/troubleshooting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_120.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_130.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_131.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_132.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_133.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_140.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_141.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_150.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_152.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_153.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_154.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_160.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_161.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_162.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_163.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_170.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_171.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_172.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_200.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_201.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_202.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_203.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_210.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_211.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_212.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_213.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_214.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_220.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_221.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_222.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_223.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_300.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_301.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_302.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_303.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_304.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_305.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_306.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_310.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_311.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_312.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrade_b11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/installation/upgrading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/benchmark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/cart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/email.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/encrypt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/encryption.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/file_uploading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/form_validation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/ftp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/image_lib.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/javascript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/language.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/loader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/migration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/parser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/security.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/sessions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/trackback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/unit_testing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/uri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/user_agent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/xmlrpc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/libraries/zip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/overview/appflow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/overview/at_a_glance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/overview/features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/overview/getting_started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/overview/goals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/overview/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/overview/mvc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/tutorial/conclusion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/tutorial/create_news_items.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/tutorial/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/tutorial/news_section.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anti-Theft-Server/user_guide/tutorial/static_pages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionicuirouter/ionicUIRouter.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/routes.js" afterPath="$PROJECT_DIR$/www/js/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/services.js" afterPath="$PROJECT_DIR$/www/js/services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/activateYourAccount.html" afterPath="$PROJECT_DIR$/www/templates/activateYourAccount.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/activated.html" afterPath="$PROJECT_DIR$/www/templates/activated.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/login.html" afterPath="$PROJECT_DIR$/www/templates/login.html" />
+    </list>
+    <ignored path="Anti-Theft.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Anti-Theft" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="60" column="60" lean-forward="false" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#form#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#form#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activated.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/activated.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="71" lean-forward="false" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activateYourAccount.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/activateYourAccount.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding>
+                <marker date="1482259601000" expanded="true" signature="758:1528" ph="{...}" />
+                <marker date="1482259601000" expanded="true" signature="794:1524" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-185">
+              <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>192</find>
+      <find>Anti-Theft</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/manifest.json" />
+        <option value="$PROJECT_DIR$/www/register.html" />
+        <option value="$PROJECT_DIR$/www/js/crypto-js.js" />
+        <option value="$PROJECT_DIR$/www/templates/register.html" />
+        <option value="$PROJECT_DIR$/platforms/android/android.json" />
+        <option value="$PROJECT_DIR$/www/js/routes.js" />
+        <option value="$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/package.json" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/templates/login.html" />
+        <option value="$PROJECT_DIR$/www/templates/activated.html" />
+        <option value="$PROJECT_DIR$/www/templates/activateYourAccount.html" />
+        <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/js/services.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="838" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outputs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anti-Theft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outputs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/alessio/Desktop/Ionic Apps/Anti-Theft/www/js/app.js&#10;plugins&#9;null&#9;null&#10;crypt&#9;FILE&#9;file:///Users/alessio/Desktop/Ionic Apps/Anti-Theft/node_modules/crypto-js/crypto-js.js" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Node.js.controllers.js">
+    <configuration default="false" name="controllers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="controllers.js" working-dir="$PROJECT_DIR$/www/js">
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptNodeJsTraceType" factoryName="Spy-js for Node.js" config="" node="project" node-params="" app="" app-params="" working-dir="$PROJECT_DIR$" proxy-port="3547" pass-parent-env="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTraceType" factoryName="Spy-js" node="project" config="" has-config="false" system-proxy="true" proxy-port="3546" open-browser="false" browser="">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="project" />
+      <envs />
+      <setting name="nodeunitModuleDir" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="testType" value="JS_FILE" />
+      <setting name="jsFile" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" value="/usr/local/bin/ionic" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="run" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="-c -l" />
+      <option name="hasTarget" value="true" />
+      <option name="target" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.controllers.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.controllers.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="872f2f36-b7fa-4557-9acd-191125e9c67c" name="Default" comment="" />
+      <created>1477661229954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477661229954</updated>
+      <workItem from="1477661231584" duration="252000" />
+      <workItem from="1477917663402" duration="73000" />
+      <workItem from="1478007448809" duration="105000" />
+      <workItem from="1478011018411" duration="2882000" />
+      <workItem from="1478022463615" duration="2220000" />
+      <workItem from="1478080186822" duration="3834000" />
+      <workItem from="1478096236502" duration="5253000" />
+      <workItem from="1478109951338" duration="31000" />
+      <workItem from="1478170780121" duration="597000" />
+      <workItem from="1479654231877" duration="2237000" />
+      <workItem from="1479830102594" duration="6436000" />
+      <workItem from="1479908763227" duration="5219000" />
+      <workItem from="1479974146133" duration="1601000" />
+      <workItem from="1479995211182" duration="1679000" />
+      <workItem from="1479999798974" duration="1756000" />
+      <workItem from="1480004067115" duration="2030000" />
+      <workItem from="1480011067159" duration="123000" />
+      <workItem from="1480017091150" duration="8000" />
+      <workItem from="1480091000024" duration="2719000" />
+      <workItem from="1480094331276" duration="2190000" />
+      <workItem from="1480156809685" duration="4414000" />
+      <workItem from="1480175958179" duration="58000" />
+      <workItem from="1480194122442" duration="126000" />
+      <workItem from="1480252698347" duration="5291000" />
+      <workItem from="1480696879199" duration="11584000" />
+      <workItem from="1481374780862" duration="4740000" />
+      <workItem from="1481792868973" duration="39000" />
+      <workItem from="1482054511009" duration="23000" />
+      <workItem from="1482054574857" duration="12000" />
+      <workItem from="1482054605356" duration="2332000" />
+      <workItem from="1482249611772" duration="10107000" />
+    </task>
+    <task id="LOCAL-00001" summary="Screenshot remotely + aggresive background geolocation on movement + New infrastructure">
+      <created>1480771102262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480771102262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79971000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24031007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27345845" sideWeight="0.5109232" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297587" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27345845" sideWeight="0.48907682" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297587" sideWeight="0.49753347" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Screenshot remotely + aggresive background geolocation on movement + New infrastructure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Screenshot remotely + aggresive background geolocation on movement + New infrastructure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/www/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/bower.json" />
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/service-worker.js" />
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/register.html" />
+    <entry file="file://$PROJECT_DIR$/www/js/crypto-js.js" />
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/crypto-js/crypto-js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="66" lean-forward="false" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/com/moonware/cameraserver/AndroidFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/com/moonware/cameraserver/CameraServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-559">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/com/moonware/cameraserver/NanoHTTPD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/com/moonware/cameraserver/WebServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/com/moonware/cameraserver/CameraManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6765">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/android.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="168" column="25" lean-forward="false" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/register/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/version.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/css/ionic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2640">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2606">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20273">
+          <caret line="608" column="2" lean-forward="false" selection-start-line="608" selection-start-column="2" selection-end-line="608" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/js/ionic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="602" column="2" lean-forward="false" selection-start-line="602" selection-start-column="2" selection-end-line="602" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/src/android/CameraPictureBackground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1271">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/demo/index.js" />
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/www/CameraPictureBackground.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camerapicturebackground/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="77" lean-forward="false" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-cameraserver/www/CameraServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/com.moonware.cameraplus/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/com.moonware.cameraplus/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-497">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/com.moonware.cameraplus/www/CameraPlus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="60" column="60" lean-forward="false" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#form#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/activated.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="71" lean-forward="false" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/activateYourAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <marker date="1482259601000" expanded="true" signature="758:1528" ph="{...}" />
+            <marker date="1482259601000" expanded="true" signature="794:1524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-release-key.keystore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
